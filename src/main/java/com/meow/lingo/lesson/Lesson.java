@@ -1,5 +1,6 @@
-package com.meow.lingo.entities;
+package com.meow.lingo.lesson;
 
+import com.meow.lingo.user.AppUser;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -22,4 +23,11 @@ public class Lesson {
     private AppUser appUser;
     private Timestamp createdAt;
     private Timestamp learnedAt;
+
+    public Lesson(boolean lessonStatus, AppUser appUser, Timestamp createdAt, Timestamp learnedAt) {
+        this.lessonStatus = lessonStatus;
+        this.appUser = appUser;
+        this.createdAt = createdAt;
+        this.learnedAt = learnedAt;
+    }
 }

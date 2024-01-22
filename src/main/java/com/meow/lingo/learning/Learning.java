@@ -1,5 +1,9 @@
-package com.meow.lingo.entities;
+package com.meow.lingo.learning;
 
+import com.meow.lingo.directobject.DirectObject;
+import com.meow.lingo.lesson.Lesson;
+import com.meow.lingo.verb.Verb;
+import com.meow.lingo.user.AppUser;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -31,4 +35,15 @@ public class Learning {
     private int directObjectVocabularyAttempts;
     private boolean learningStatus;
     private boolean incorrectData;
+
+    public Learning(Lesson lesson, AppUser appUser, Verb verb, DirectObject directObject, int verbAttempts, int directObjectVocabularyAttempts, boolean learningStatus, boolean incorrectData) {
+        this.lesson = lesson;
+        this.appUser = appUser;
+        this.verb = verb;
+        this.directObject = directObject;
+        this.verbAttempts = verbAttempts;
+        this.directObjectVocabularyAttempts = directObjectVocabularyAttempts;
+        this.learningStatus = learningStatus;
+        this.incorrectData = incorrectData;
+    }
 }

@@ -1,5 +1,7 @@
-package com.meow.lingo.entities;
+package com.meow.lingo.verb;
 
+import com.meow.lingo.directobject.DirectObject;
+import com.meow.lingo.subject.Subject;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -24,4 +26,12 @@ public class Verb {
     private DirectObject directObject;
     private String translateVerb;
     private boolean incorrectData;
+
+    public Verb(String verb, Subject subject, DirectObject directObject, String translateVerb, boolean incorrectData) {
+        this.verb = verb;
+        this.subject = subject;
+        this.directObject = directObject;
+        this.translateVerb = translateVerb;
+        this.incorrectData = incorrectData;
+    }
 }
