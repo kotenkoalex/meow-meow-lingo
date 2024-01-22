@@ -9,5 +9,4 @@ public class MeowMeowLingoApplication {
     public static void main(String[] args) {
         SpringApplication.run(MeowMeowLingoApplication.class, args);
     }
-
 }
