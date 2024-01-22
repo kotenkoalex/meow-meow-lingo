@@ -1,4 +1,4 @@
-package com.meow.lingo.entities;
+package com.meow.lingo.directobject;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -23,4 +23,12 @@ public class DirectObject {
     private String translateDirectObjectVocabulary;
     private String translateDirectObjectExtra;
     private boolean incorrectData;
+
+    public DirectObject(String directObjectVocabulary, String directObjectExtra, String translateDirectObjectVocabulary, String translateDirectObjectExtra, boolean incorrectData) {
+        this.directObjectVocabulary = directObjectVocabulary;
+        this.directObjectExtra = directObjectExtra;
+        this.translateDirectObjectVocabulary = translateDirectObjectVocabulary;
+        this.translateDirectObjectExtra = translateDirectObjectExtra;
+        this.incorrectData = incorrectData;
+    }
 }

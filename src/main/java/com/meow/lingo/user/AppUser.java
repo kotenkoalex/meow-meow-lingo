@@ -1,4 +1,4 @@
-package com.meow.lingo.entities;
+package com.meow.lingo.user;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -22,4 +22,11 @@ public class AppUser {
     private String lastName;
     private String email;
     private String password;
+
+    public AppUser(String firstName, String lastName, String email, String password) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.email = email;
+        this.password = password;
+    }
 }

@@ -1,4 +1,4 @@
-package com.meow.lingo.entities;
+package com.meow.lingo.subject;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -20,4 +20,9 @@ public class Subject {
     private UUID id;
     private String subject;
     private String translateSubject;
+
+    public Subject(String subject, String translateSubject) {
+        this.subject = subject;
+        this.translateSubject = translateSubject;
+    }
 }
