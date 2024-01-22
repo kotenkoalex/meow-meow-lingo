@@ -1,0 +1,90 @@
+Je*Я*ajoute*додаю*des épinards*шпинат*à ma omelette du petit-déjeuner*до свого омлету на сніданок
+Tu*Ти*ajoutes*додаєш*des champignons*гриби*à la pizza*до піци
+Il*Він*ajoute*додає*du maïs*кукурудзу*à la soupe*до супу
+Elle*Вона*ajoute*додає*des olives*оливки*à la salade verte*до зеленого салату
+On*Вони*ajoute*додаємо*une courgette*кабачок*à la ratatouille*до рагу
+Nous*Ми*ajoutons*додаєте*des oignons*цибулю*à la sauce tomate*до томатного соусу
+Vous*Ви*ajoutez*додають*des carottes râpées*терту моркву*à la salade*до салату
+Ils*Вони*ajoutent*додаєте*des piments verts*зелений перець*à leur plat préféré*до своєї улюбленої страви
+Elles*Вони*ajoutent*додають*des asperges*спаржу*au plat principal*до основної страви
+Je*Я*coupe*ріжу*des champignons*гриби*pour la pizza*для піци
+Tu*Ти*coupes*ріжеш*une asperge*спаржу*pour la salade*для салату
+Il*Він*coupe*ріже*un brocoli*брокколі*pour la soupe*для супу
+Elle*Вона*coupe*ріже*une courgette*кабачок*pour le ragoût*для рагу
+On*Вони*coupe*ріжемо*des épinards*шпинат*pour la quiche*для кішу
+Nous*Ми*coupons*ріжемо*des carottes*моркву*pour la salade*для салату
+Vous*Ви*coupez*ріжете*des oignons*цибулю*pour la sauce*для соусу
+Ils*Вони*coupent*ріжуть*des haricots verts*зелену квасолю*pour le sauté*для соте
+Elles*Вони*coupent*ріжуть*des tomates*помідори*pour la salsa*для сальси
+Je*Я*hache*подрібнюю*des oignons*цибулю*pour la sauce*для соусу
+Tu*Ти*haches*подрібнюєш*de l'ail*часник*pour la marinade*для маринаду
+Il*Він*hache*подрібнює*des champignons*гриби*pour la farce*для начинки
+Elle*Вона*hache*подрібнює*des herbes aromatiques*ароматичні трави*pour la salade*для салату
+On*Вони*hache*подрібнюємо*du persil*петрушку*pour la garniture*для прикраси
+Nous*Ми*hachons*подрібнюємо*des légumes*овочі*pour la ratatouille*для рагу
+Vous*Ви*hachez*подрібнюєте*des noix*горішки*pour la pâtisserie*для випічки
+Ils*Вони*hachent*подрібнюють*de la viande*м'ясо*pour les burgers*для бургерів
+Elles*Вони*hachent*подрібнюють*des légumes*овочі*pour la soupe*для супу
+Je*Я*mélange*змішую*les ingrédients*інгредієнти*pour la pâte à gâteau*для тіста для торта
+Tu*Ти*mélanges*змішуєш*le sucre*цукор*avec le beurre*з маслом
+Il*Він*mélange*змішує*la sauce*соус*dans la casserole*у каструлі
+Elle*Вона*mélange*змішує*les légumes*овочі*dans la poêle*на сковороді
+On*Вони*mélange*змішуємо*la farine avec l'eau*борошно з водою*pour la pâte*для тіста
+Nous*Ми*mélangeons*змішуємо*les épices*спеції*dans le curry*в каррі
+Vous*Ви*mélangez*змішуєте*les œufs avec le lait*яйця з молоком*pour la crème*для крему
+Ils*Вони*mélangent*змішують*les fruits*фрукти*pour la salade*для салату
+Elles*Вони*mélangent*змішують*les herbes*трави*dans la marinade*в маринаді
+Je*Я*mets*ставлю*le gâteau au four*торт у духовку*pour le faire cuire*щоб його приготувати
+Tu*Ти*mets*ставиш*les pommes de terre au four*картоплю у духовку*pour les rôtir*щоб її підсмажити
+Il*Він*met*ставить*le poulet au four*курку в духовку*pour le rôtir*щоб її підсмажити
+Elle*Вона*met*ставить*la tarte au four*пиріг в духовку*pour qu'elle soit dorée*щоб він став золотистим
+On*Вони*met*ставимо*les croissants au four*круасани в духовку*pour les réchauffer*щоб їх підігріти
+Nous*Ми*mettons*ставимо*le gratin au four*гратен в духовку*pour le gratiner*щоб він став золотистим
+Vous*Ви*mettez*ставите*le pain au four*хліб в духовку*pour le faire dorer*щоб його підсмажити
+Ils*Вони*mettent*ставлять*les légumes au four*овочі в духовку*pour les rôtir*щоб їх підсмажити
+Elles*Вони*mettent*ставлять*les cupcakes au four*кекси в духовку*pour les faire cuire*щоб їх приготувати
+Je*Я*sors*виймаю*les cookies du four*печиво з духовки*ils sentent délicieux*вони чудово пахнуть
+Tu*Ти*sors*виймаєш*le poulet rôti du four*запечену курку з духовки*pour le laisser reposer*щоб їй відпочити
+Il*Він*sort*виймає*le pain fraîchement cuit du four*свіжозапечений хліб з духовки*-*-
+Elle*Вона*sort*виймає*le pain du four*хліб з духовки*il est bien doré*він чудово золотистий
+On*Вони*sort*виймаємо*les pizzas du four*піцу з духовки*avant de les découper*перед тим, як її порізати
+Nous*Ми*sortons*виймаємо*les légumes rôtis du four*запечені овочі з духовки*-*-
+Vous*Ви*sortez*обережно*le gâteau du four*виймаєте торт з духовки*avec précaution*-
+Ils*Вони*sortent*виймають*les croissants dorés du four*золотисті круасани з духовки*-*-
+Elles*Вони*sortent*виймають*les muffins cuits du four*випечені мафіни з духовки*l'odeur est alléchante*запах привабливий
+Je*Я*cuis*готую*un ragoût*рагу*pour le dîner*на вечерю
+Tu*Ти*cuis*готуєш*des pâtes*пасту*pour le déjeuner*на обід
+Il*Він*cuit*готує*du poisson*рибу*au four*в духовці
+Elle*Вона*cuit*готує*des crêpes*млинці*pour le petit-déjeuner*на сніданок
+On*Вони*cuit*готуємо*du riz*рис*dans la casserole*у каструлі
+Nous*Ми*cuisons*готуємо*des légumes*овочі*à la vapeur*на пару
+Vous*Ви*cuisez*готуєте*une omelette*омлет*pour le brunch*на бранч
+Ils*Вони*cuisent*готують*des saucisses*ковбаси*sur le barbecue*на барбекю
+Elles*Вони*cuisent*готують*un gâteau*торт*pour l'anniversaire*на день народження
+Je*Я*fais revenir*обсмажую*des oignons*цибулю*dans la poêle*на сковороді
+Tu*Ти*fais revenir*обсмажуєш*de l'ail*часник*avec les crevettes*разом з креветками
+Il*Він*fait revenir*обсмажує*la viande*м'ясо*avant de la mijoter*перед тушкуванням
+Elle*Вона*fait revenir*обсмажує*les champignons*гриби*dans le beurre*на вершковому маслі
+On*Вони*fait revenir*обсмажуємо*les légumes*овочі*pour la ratatouille*для рататуя
+Nous*Ми*faisons revenir*обсмажуємо*le poulet*курку*avant de l'ajouter à la sauce*перед тим, як додати її до соусу
+Vous*Ви*faites revenir*обсмажуєте*les épices*спеції*dans l'huile*в олії
+Ils*Вони*font revenir*обсмажують*les morceaux de porc*шматочки свинини*pour le curry*для каррі
+Elles*Вони*font revenir*обсмажують*les herbes aromatiques*ароматичні трави*avec les légumes*разом з овочами
+Je*Я*goûte*пробую*la soupe*суп*pour vérifier l'assaisonnement*щоб перевірити смак
+Tu*Ти*goûtes*пробуєш*la sauce*соус*pour voir si elle est assez épicée*щоб побачити, чи він достатньо гострий
+Il*Він*goûte*пробує*le plat*страву*pour s'assurer qu'il est bien cuit*щоб переконатися, що вона добре приготована
+Elle*Вона*goûte*пробує*le gâteau*торт*pour s'assurer qu'il est sucré comme il faut*щоб переконатися, що він достатньо солодкий
+On*Вони*goûte*пробуємо*les légumes*овочі*pour voir s'ils sont tendres*щоб побачити, чи вони м'які
+Nous*Ми*goûtons*пробуємо*le vin*вино*avant de le servir*перед тим, як подавати його
+Vous*Ви*goûtez*пробуєте*les fromages*сири*pour choisir celui que vous préférez*щоб вибрати той, який вам подобається
+Ils*Вони*goûtent*пробують*les différents plats*різні страви*pour faire leur choix*щоб зробити свій вибір
+Elles*Вони*goûtent*пробують*les bonbons*цукерки*pour décider lesquels acheter*щоб вирішити, які купити
+Je*Я*sers*подаю*le dîner*вечерю*à la table*за столом
+Tu*Ти*sers*подаєш*le café*каву*aux invités*гостям
+Il*Він*sert*подає*le plat principal*основну страву*avec élégance*з елегантністю
+Elle*Вона*sert*подає*les desserts*десерти*dans de jolis bols*у гарнірних мисках
+On*Вони*sert*подаємо*les apéritifs*аперитиви*avant le repas*перед їжею
+Nous*Ми*servons*подаємо*le déjeuner*обід*dans la salle à manger*у їдальні
+Vous*Ви*servez*подаєте*le vin*вино*pendant le dîner*під час вечері
+Ils*Вони*servent*подають*les plats*страви*dans l'ordre prévu*в передбаченому порядку
+Elles*Вони*servent*подають*les hors-d'œuvre*закуски*lors de la réception*під час прийому
