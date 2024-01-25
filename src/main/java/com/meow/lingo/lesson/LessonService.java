@@ -1,11 +1,11 @@
 package com.meow.lingo.lesson;
 
+import com.meow.lingo.user.AppUser;
 import com.meow.lingo.user.UserDao;
 import org.springframework.stereotype.Service;
 
 import java.sql.Timestamp;
 import java.time.Instant;
-import java.util.NoSuchElementException;
 
 @Service
 public class LessonService {
@@ -17,15 +17,12 @@ public class LessonService {
         this.userDao = userDao;
     }
 
-    @Deprecated(since = "remove after testing")
-    public void fillDB() {
-        if (lessonDao.findAll().size() == 0) {
-            Lesson lesson = new Lesson(
-                    false,
-                    userDao.findByEmail("test@gmail.com").orElseThrow(NoSuchElementException::new),
-                    Timestamp.from(Instant.now()),
-                    null);
-            lessonDao.save(lesson);
-        }
+    public Lesson createLesson(AppUser user) {
+        Lesson lesson = new Lesson(
+                false,
+                user,
+                Timestamp.from(Instant.now()),
+                null);
+        return lessonDao.save(lesson);
     }
 }
