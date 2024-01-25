@@ -2,6 +2,8 @@ package com.meow.lingo.user;
 
 import org.springframework.stereotype.Service;
 
+import java.util.NoSuchElementException;
+
 @Service
 public class UserService {
     private final UserDao userDao;
@@ -20,5 +22,11 @@ public class UserService {
                     "password"
             ));
         }
+    }
+
+    public AppUser getCurrentUser(String email) {
+        return userDao
+                .findByEmail(email)
+                .orElseThrow(NoSuchElementException::new);
     }
 }
