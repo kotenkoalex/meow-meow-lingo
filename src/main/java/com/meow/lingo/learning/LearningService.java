@@ -28,9 +28,8 @@ public class LearningService {
         this.directObjectDao = directObjectDao;
     }
 
-    @Deprecated(since = "remove after testing")
-    public void fillDB() {
-        if (learningDao.findAll().size() == 0) {
+    public List<Learning> startLearning() {
+        //TODO make it random according to algorithms
             List<String> lines = ReaderTestData.readData();
             List<Learning> learnings = new ArrayList<>();
             for (String line : lines) {
@@ -60,7 +59,6 @@ public class LearningService {
                 );
                 learnings.add(learning);
             }
-            learningDao.saveAll(learnings);
-        }
+            return learningDao.saveAll(learnings);
     }
 }
