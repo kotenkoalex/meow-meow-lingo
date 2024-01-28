@@ -22,7 +22,7 @@ public class AppService {
 
     public void learning() {
         Lesson lesson = lessonService.createLesson(userService.getCurrentUser("test@gmail.com"));
-        List<Learning> learnings = learningService.startLearning();
+        List<Learning> learnings = learningService.createLearning();
     }
 
     //create a lesson
