@@ -28,7 +28,7 @@ public class LearningService {
         this.directObjectDao = directObjectDao;
     }
 
-    public List<Learning> startLearning() {
+    public List<Learning> createLearning() {
         //TODO make it random according to algorithms
             List<String> lines = ReaderTestData.readData();
             List<Learning> learnings = new ArrayList<>();
@@ -60,5 +60,9 @@ public class LearningService {
                 learnings.add(learning);
             }
             return learningDao.saveAll(learnings);
+    }
+
+    public void startLearning(){
+        //TODO implement learning loop
     }
 }
